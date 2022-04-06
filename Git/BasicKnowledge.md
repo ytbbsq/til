@@ -1,6 +1,6 @@
 # VScode連携
 ## このサイト通りにやればVScodeと連携できたぜ！！！
-## VSCodeでGit・GitHubを使う方法を解説する【初心者向き】 (miya-system-works.com)
+## https://miya-system-works.com/blog/detail/vscode-github/
 ## コミット→ﾌﾟｯｼｭ
-## Git リモート URL を削除する方法 | Delft スタック (delftstack.com)
+## https://www.delftstack.com/ja/howto/git/how-to-remove-a-git-remote-url/
 
